@@ -1,11 +1,11 @@
 // ==UserScript==
 // @name         One-Click Login For Recruitment
 // @version      1.2.1
-// @namespace    thisismoon
+// @namespace    Moon (Emodea) & UPC
 // @description  Allows for immediate switching to another nation after recruitment TG has been sent
 // @author       Moon
-// @downloadURL  https://github.com/moon-5541/ns-recruit-tg-switch/raw/main/switcher.user.js
-// @updateURL    https://github.com/moon-5541/ns-recruit-tg-switch/raw/main/switcher.user.js
+// @downloadURL  https://github.com/Europeia/ns-recruit-tg-switch/raw/main/switcher.user.js
+// @updateURL    https://github.com/Europeia/ns-recruit-tg-switch/raw/main/switcher.user.js
 // @match        https://*.nationstates.net/*page=compose_telegram*
 // @match        https://*.nationstates.net/page=blank/asperta_switcher
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=nationstates.net
